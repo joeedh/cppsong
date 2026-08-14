@@ -33,3 +33,17 @@ via the Gemini API.
 `ffmpeg` is used for any post-processing (trims, mixing, format conversion).
 
 See `CLAUDE.md` for more detail on the Lyria 3 API quirks and repo conventions.
+
+## License
+
+Public domain — CC0 1.0 Universal. The lyrics and scripts here are dedicated
+to the public domain: use, modify, remix, perform, or sell them, with or
+without credit, no permission needed. Where a public domain dedication isn't
+legally possible, the same rights are granted as an unconditional permissive
+license instead.
+
+Two caveats: the generated audio under `songs/` comes from Google's
+Gemini/Lyria API, so rights in that output follow Google's terms rather than
+anything granted here; and everything is provided as-is, with no warranty.
+
+See [LICENSE.md](LICENSE.md) for the full text.

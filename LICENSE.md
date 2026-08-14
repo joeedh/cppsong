@@ -2,7 +2,7 @@
 
 Copyright (c) 2026 Joseph Eagar
 
-To the extent possible under law, Joe Eagar has waived all copyright and
+To the extent possible under law, Joseph Eagar has waived all copyright and
 related or neighboring rights to the contents of this repository, including
 the lyrics in `song.md` and the scripts in `scripts/`. This work is published
 from the United States.
